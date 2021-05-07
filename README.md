@@ -1,8 +1,10 @@
 ### Working hard to solve non trivial problems :coffee:
 
-![Kofemann's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kofemann&count_private=false&theme=calm&show_icons=true)
 
 <!--
+
+![Kofemann's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kofemann&count_private=false&theme=calm&show_icons=true)
+
 **kofemann/kofemann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
