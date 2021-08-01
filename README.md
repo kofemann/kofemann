@@ -1,5 +1,6 @@
-### Working hard to solve non trivial problems :construction_worker:
+## About Me in a nutshell
 
+- Working hard to solve non trivial problems :construction_worker:
 - `Developing` distributed (storage) `systems` :floppy_disk:
 - `Contributing` to many OSS projects :octocat:
 -  Consuming `coffee` :coffee:
