@@ -1,5 +1,10 @@
-### Working hard to solve non trivial problems :coffee:
+### Working hard to solve non trivial problems :construction_worker:
 
+- `Developing` distributed (storage) `systems` :floppy_disk:
+- `Contributing` to many OSS projects :octocat:
+-  Consuming `coffee` :coffee:
+- `Java, C, Go, Python ... UNIX` :wrench: :hammer: :nut_and_bolt:
+  
 
 <!--
 
